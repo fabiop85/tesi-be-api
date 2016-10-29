@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Users\fabio\Dropbox\TesiFabioPierri2016\Applicazione\tesi-be-api\conf\application.conf,C:\Users\fabio\Dropbox\TesiFabioPierri2016\Applicazione\tesi-be-api\target\scala-2.11\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\fabio\Dropbox\TesiFabioPierri2016\Applicazione\tesi-be-api\conf\logback.xml,C:\Users\fabio\Dropbox\TesiFabioPierri2016\Applicazione\tesi-be-api\target\scala-2.11\classes\logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\fabio\Dropbox\TesiFabioPierri2016\Applicazione\tesi-be-api\conf\routes,C:\Users\fabio\Dropbox\TesiFabioPierri2016\Applicazione\tesi-be-api\target\scala-2.11\classes\routes)[0m
